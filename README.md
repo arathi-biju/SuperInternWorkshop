@@ -2,4 +2,4 @@
 
 My superpower would be time travel.
 
-Add text idk
+Change text after add security rules. Cant push this directly to main. Need to open a PR
